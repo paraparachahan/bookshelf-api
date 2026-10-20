@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="ページ-1" id="gw358ocH63S2fw5h-uFG">
+    <mxGraphModel dx="1414" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="620" width="380" x="224" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=light-dark(#000000,#000000);fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;本棚管理システム&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="364" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-28" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="520" width="284" x="272" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-20" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-21" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-22" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-4" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-23" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-24" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-6" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-25" edge="1" parent="LTmX6lcZlhqql4hhmKc4-28" source="LTmX6lcZlhqql4hhmKc4-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=gap;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" target="LTmX6lcZlhqql4hhmKc4-7" value="">
+          <mxGeometry relative="1" x="-0.528" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-1" parent="LTmX6lcZlhqql4hhmKc4-28" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;strokeColor=light-dark(#000000,#000000);fillColor=none;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本棚管理者" vertex="1">
+          <mxGeometry height="60" width="30" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-8" connectable="0" parent="LTmX6lcZlhqql4hhmKc4-28" style="group;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="520" width="140" x="144" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-2" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;fillColor=default;labelBackgroundColor=none;fontColor=default;" value="本情報を参照する&lt;br&gt;（全件）" vertex="1">
+          <mxGeometry height="70" width="140" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-3" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を参照する&lt;br&gt;（個別）" vertex="1">
+          <mxGeometry height="70" width="140" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-4" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を登録する" vertex="1">
+          <mxGeometry height="70" width="140" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-5" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を更新する&lt;br&gt;（全更新）" vertex="1">
+          <mxGeometry height="70" width="140" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-6" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本情報を更新する&lt;br&gt;（一部更新）" vertex="1">
+          <mxGeometry height="70" width="140" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="LTmX6lcZlhqql4hhmKc4-7" parent="LTmX6lcZlhqql4hhmKc4-8" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=light-dark(#000000,#000000);" value="本を削除する" vertex="1">
+          <mxGeometry height="70" width="140" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
